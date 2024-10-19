@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git clone https://github.com/lfzuniga10/Clusterizacion-Deber-LZ.git
+cd Clusterizacion-Deber-LZ
+git add .
+git commit -m "Añadir notebook y archivo CSV"
+git push origin main  # Usa 'master' si tu rama principal se llama así
