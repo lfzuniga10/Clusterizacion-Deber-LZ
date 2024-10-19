@@ -1,0 +1,2 @@
+# Clusterizacion Deber LZ
+ Se ha publicado un archivo ("data_ecu.txt") que contiene 305 ubicaciones del Ecuador. Cada ubicación es un dato de dos dimensiones que representa la latitud y la longitud del lugar. Con esta data se busca  implementar el algoritmo de K-means para agrupar las ubicaciones en tres clusters, de manera que las ubicaciones dentro del mismo cluster estén geográficamente cercanas entre sí.
